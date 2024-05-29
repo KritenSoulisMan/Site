@@ -1,0 +1,13 @@
+@model Type_D.Models.UserProfile
+
+@{
+    ViewBag.Title = "Профиль";
+}
+
+<h2>Профиль пользователя</h2>
+
+<p>Имя: @Model.Name</p>
+<p>Email: @Model.Email</p>
+<p>Пароль: ********</p>
+
+<a href="@Url.Action("Edit")" class="btn btn-primary">Редактировать</a>

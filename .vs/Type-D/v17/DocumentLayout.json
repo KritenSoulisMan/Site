@@ -1,0 +1,675 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TagievS\\Desktop\\Type-D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Scripts\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\UserProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Migrations\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ServicesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ProfileController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.Web.Infrastructure.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.SqlServer.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\Type-D.csproj.dtbcache.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\ProjectSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|C:\\Users\\TagievS\\Desktop\\Type-D\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|C:\\Users\\TagievS\\Desktop\\Type-D\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|C:\\Users\\TagievS\\Desktop\\Type-D\\content\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|solutionrelative:content\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|C:\\Users\\TagievS\\Desktop\\Type-D\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Profile\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|solutionrelative:Views\\Profile\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Profile\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7810A33-1585-44C4-9089-0C7E4293803F}|Type-D.csproj|solutionrelative:Views\\Profile\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Scripts\\site.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Scripts\\site.js",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Scripts\\site.js",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Scripts\\site.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-27T07:55:11.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\README.md",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\README.md",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-27T07:55:11.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:11.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\packages.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\packages.config",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\packages.config",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T07:55:11.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\UserProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:11.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Service.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:10.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Booking.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:10.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:10.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:10.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:10.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Global.asax",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2024-05-27T07:55:10.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:09.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:09.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:55:09.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Type-D.pdb",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.pdb",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.pdb",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.pdb",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-05-27T07:55:09.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Type-D.dll.config",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll.config",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll.config",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T07:54:48.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Type-D.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Type-D.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:48.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "System.Web.Webpages.xml",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.xml",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.xml",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-27T07:54:48.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "System.Web.Webpages.Razor.xml",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.xml",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.xml",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-27T07:54:48.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "System.Web.Webpages.Razor.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Razor.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:48.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "System.Web.Webpages.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:48.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "System.Web.Webpages.Deployment.xml",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.xml",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.xml",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-27T07:54:48.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "System.Web.Webpages.Deployment.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Webpages.Deployment.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:48.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "System.Web.Razor.xml",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.xml",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.xml",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-27T07:54:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "System.Web.Razor.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Razor.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:48.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "System.Web.Mvc.xml",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.xml",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.xml",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-27T07:54:48.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "System.Web.Mvc.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Mvc.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:48.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "System.Web.Helpers.xml",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.xml",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.xml",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-27T07:54:48.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "System.Web.Helpers.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\System.Web.Helpers.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:48.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Microsoft.Web.Infrastructure.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.Web.Infrastructure.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.Web.Infrastructure.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.Web.Infrastructure.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.Web.Infrastructure.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:47.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-27T07:54:47.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:47.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EntityFramework.SqlServer.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.SqlServer.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.SqlServer.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.SqlServer.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.SqlServer.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:47.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EntityFramework.dll",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.dll",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.dll",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.dll",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\bin\\EntityFramework.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-27T07:54:47.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:54:47.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Type-D.csproj.dtbcache.json",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\Type-D.csproj.dtbcache.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\Type-D.csproj.dtbcache.json",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\Type-D.csproj.dtbcache.json",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\Type-D.csproj.dtbcache.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T07:54:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProjectSettings.json",
+              "DocumentMoniker": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\ProjectSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\ProjectSettings.json",
+              "ToolTip": "C:\\Users\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\ProjectSettings.json",
+              "RelativeToolTip": "..\\..\\..\\s111\\AppData\\Local\\Temp\\Rar$DRa5672.28047\\Type-D\\.vs\\ProjectSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T07:54:31.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\TagievS\\Desktop\\Type-D\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\TagievS\\Desktop\\Type-D\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:02:10.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\TagievS\\Desktop\\Type-D\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\TagievS\\Desktop\\Type-D\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-27T05:02:10.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\TagievS\\Desktop\\Type-D\\Content\\CSS\\site.css",
+              "RelativeDocumentMoniker": "Content\\CSS\\site.css",
+              "ToolTip": "C:\\Users\\TagievS\\Desktop\\Type-D\\Content\\CSS\\site.css",
+              "RelativeToolTip": "Content\\CSS\\site.css",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T05:02:10.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:02:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Profile\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Profile\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:02:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TagievS\\Desktop\\Type-D\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T05:02:10.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\TagievS\\Desktop\\Type-D\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\TagievS\\Desktop\\Type-D\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:02:10.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

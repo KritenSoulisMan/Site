@@ -1,0 +1,10 @@
+@model Type_D.Models.Service
+
+@{
+    ViewBag.Title = "Детали услуги";
+}
+
+<h2>@Model.Name</h2>
+<p>@Model.Description</p>
+<p>Цена: @Model.Price руб.</p>
+<a href="@Url.Action("Book", new { id = Model.Id })">Забронировать</a>

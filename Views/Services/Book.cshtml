@@ -1,0 +1,33 @@
+@model Type_D.Models.Booking
+
+@{
+    ViewBag.Title = "Бронирование услуги";
+}
+
+<h2>Бронирование услуги: @Model.ServiceName</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(model => model.ServiceId)
+    @Html.HiddenFor(model => model.ServiceName)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.CustomerName)
+        @Html.TextBoxFor(model => model.CustomerName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.CustomerName)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.CustomerEmail)
+        @Html.TextBoxFor(model => model.CustomerEmail, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.CustomerEmail)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.BookingDate)
+        @Html.TextBoxFor(model => model.BookingDate, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.BookingDate)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Забронировать</button>
+}

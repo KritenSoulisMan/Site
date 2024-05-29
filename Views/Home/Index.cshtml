@@ -1,0 +1,37 @@
+@model IEnumerable<Type_D.Models.Service>
+
+@{
+    ViewBag.Title = "Главная";
+}
+
+<div class="jumbotron">
+    <link href="~/Content/CSS/site.css" rel="stylesheet">
+    <link href="~/Content/CSS/bootstrap.min.css" rel="stylesheet">
+    <h1 class="display-4">Добро пожаловать в Дачные услуги!</h1>
+    <p class="lead">Мы предлагаем широкий спектр услуг для вашего дачного участка.</p>
+    <hr class="my-4">
+    <p>Ознакомьтесь с нашими услугами ниже.</p>
+    <a class="btn btn-primary btn-lg" href="@Url.Action("Index", "Services")" role="button">Все услуги</a>
+</div>
+
+<div class="row">
+    @if (Model != null)
+    {
+        foreach (var service in Model)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@service.Name</h5>
+                        <p class="card-text">@service.Description</p>
+                        <a href="@Url.Action("Details", "Services", new { id = service.Id })" class="btn btn-primary">Подробнее</a>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>Нет доступных услуг.</p>
+    }
+</div>
