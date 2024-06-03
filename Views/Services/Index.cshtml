@@ -1,15 +1,29 @@
 @model IEnumerable<Type_D.Models.Service>
 
 @{
-    ViewBag.Title = "Услуги";
+    ViewBag.Title = "Home Page";
 }
 
-<h2>Услуги</h2>
-<ul>
-    @foreach (var service in Model)
-    {
-        <li>
-            <a href="@Url.Action("Details", new { id = service.Id })">@service.Name</a> - @service.Price руб.
-        </li>
-    }
-</ul>
+<div class="jumbotron">
+    <h1>Welcome to Type-D Services!</h1>
+    <p class="lead">We offer a variety of services to meet your needs. Browse our services below:</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        @foreach (var service in Model)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@service.Name</h5>
+                        <p class="card-text">@service.Description</p>
+                        <p class="card-text"><strong>Price:</strong> @service.Price.ToString("C")</p>
+                        <p class="card-text"><strong>Duration:</strong> @service.Duration hours</p>
+                        <a href="#" class="btn btn-primary">Select Service</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

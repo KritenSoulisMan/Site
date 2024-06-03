@@ -5,18 +5,21 @@ namespace Type_D.Models
 {
     public class Booking
     {
-        public int ServiceId { get; set; }
+        [Key]
+        public int Id { get; set; }
+
+        [Required]
         public string ServiceName { get; set; }
+        public int ServiceId { get; set; }
+        public Service Service { get; set; }
 
         [Required]
-        public string CustomerName { get; set; }
+        public int UserId { get; set; }
+        public UserProfile User { get; set; }
 
         [Required]
-        [DataType(DataType.EmailAddress)]
-        public string CustomerEmail { get; set; }
+        public DateTime Date { get; set; }
 
-        [Required]
-        [DataType(DataType.Date)]
-        public DateTime BookingDate { get; set; }
+        public string Status { get; set; }
     }
 }

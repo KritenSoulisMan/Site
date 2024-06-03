@@ -1,0 +1,2 @@
+D:\Program Data\VisualCreate\site\obj\Debug\Type_D.csproj.AssemblyReference.cache
+D:\Program Data\VisualCreate\site\obj\Debug\Type_D.csproj.CoreCompileInputs.cache

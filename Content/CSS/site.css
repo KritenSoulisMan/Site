@@ -25,11 +25,27 @@ html, body {
 
 .card {
     margin: 10px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
 }
+
+    .card:hover {
+        transform: translateY(-5px);
+    }
 
 .card-body {
     background: rgba(255, 255, 255, 0.9);
     border-radius: 5px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+    margin-bottom: 10px;
 }
 
 .footer {
@@ -39,3 +55,31 @@ html, body {
     margin-top: 20px;
 }
 
+.btn-select {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: white;
+}
+
+    .btn-select:hover {
+        background-color: #218838;
+        border-color: #1e7e34;
+    }
+
+@media (max-width: 768px) {
+    .navbar {
+        font-size: 14px;
+    }
+
+    .jumbotron {
+        padding: 20px;
+    }
+
+    .card-title {
+        font-size: 1rem;
+    }
+
+    .card-text {
+        font-size: 0.875rem;
+    }
+}
